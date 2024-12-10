@@ -1,6 +1,6 @@
 Line  1 in text file
 
-line 2 from github
+line 2 from github i am from github
 
 
 line 3 in exp branch
